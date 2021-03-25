@@ -2,7 +2,7 @@
 	"GET": {
 		"/index.html": {
 			"headers": {
-				"Location": "/pages/html/list.html"
+				"Location": "/pages/html/"
 			},
 			"statusCode": 302,
 			"content": ""
